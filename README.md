@@ -1,29 +1,6 @@
-# trabDaniel
+# VUEJS
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+![image](https://github.com/YuriFsz/Vuejs/assets/98249765/e5220d0f-225f-412b-96f2-5f5bc71b026f)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Ferramenta usada : https://vuejs.org/
